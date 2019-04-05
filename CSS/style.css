@@ -1,0 +1,78 @@
+body{
+	background-image: url(https://hdwallsource.com/img/2014/4/nice-wallpaper-hd-41504-42472-hd-wallpapers.jpg);
+}
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+header{
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h2:hover,h1:hover{
+	color: white;
+}
+a{
+	text-decoration: none;
+	border: 1px solid white;
+	color: yellow;
+	border-radius: 5px;
+	padding: 0 10px;
+}
+
+section p{
+	text-align: left;
+	border:1px solid white;
+	margin: 0;
+	padding: 0 10px;
+	font-family: 'Indie Flower', cursive;
+}
+main img{
+	height: 150px;
+}
+.col-4{
+	text-align: center;
+
+}
+main div div{
+	text-align: center;
+}
+main p{
+	font-weight: bold;
+}
+table, tr, th{
+	text-align: center;
+	margin: 0 auto;
+	border-bottom: 1px solid black;
+}
+table tr:hover{
+	color: red;
+}
+.video{
+	    margin: 0px 172px;
+
+}
+#map{
+	margin: 0 auto;
+	text-align: center;
+}
+#pirmastekstas{
+	overflow: hidden;
+}
+#antrastekstas{
+	overflow: auto;
+}
+#tusciastekstas{
+	overflow: visible;
+}
+footer a{
+	text-decoration: none;
+	color: red;
+	border: 1px;
+}
+footer{
+	text-align: center;
+}
